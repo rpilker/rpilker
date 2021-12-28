@@ -1,6 +1,9 @@
-### Hi there, I'm Rogerio, but you can call me Pilker
+### Hi there, I’m Rogerio, but you can call me Pilker
 
-- I’m currently learning **Kotlin**
+## I’m…
+- …a front-end developer
+- …currently learning **Kotlin**
+- …working at **Folha de S.Paulo**
 
 <!--START_SECTION:waka-->
 ```text
