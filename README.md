@@ -3,7 +3,7 @@
 ## I’m…
 - …a front-end developer
 - …currently learning **Kotlin**
-- …working at **Folha de S.Paulo**
+- …working at [**Folha de S.Paulo**](https://www.folha.com.br/)
 
 <!--START_SECTION:waka-->
 ```text
