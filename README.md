@@ -7,6 +7,8 @@
 
 <!--START_SECTION:waka-->
 ```text
+Week: 22 December, 2021 - 28 December, 2021
+
 Kotlin           15 hrs 23 mins  ████████████████████▒░░░░   81.84 % 
 YAML             3 hrs 5 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
 Java             16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
