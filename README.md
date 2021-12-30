@@ -7,11 +7,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 December, 2021 - 28 December, 2021
+Week: 23 December, 2021 - 29 December, 2021
 
-Kotlin           15 hrs 23 mins  ████████████████████▒░░░░   81.84 % 
-YAML             3 hrs 5 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-Java             16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-XML              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Kotlin       10 hrs 29 mins  ██████████████▒░░░░░░░░░░   57.78 % 
+TypeScript   4 hrs 7 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.70 % 
+YAML         1 hr 59 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+JavaScript   41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+HTML         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 ```
 <!--END_SECTION:waka-->
