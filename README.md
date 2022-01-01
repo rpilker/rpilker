@@ -7,12 +7,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 December, 2021 - 30 December, 2021
+Week: 25 December, 2021 - 31 December, 2021
 
-Kotlin       4 hrs 42 mins   ███████░░░░░░░░░░░░░░░░░░   28.13 % 
-TypeScript   4 hrs 9 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.77 % 
-JavaScript   3 hrs 22 mins   █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
-YAML         1 hr 39 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
-Stylus       1 hr 7 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+TypeScript   4 hrs 9 mins    ███████▒░░░░░░░░░░░░░░░░░   29.42 % 
+JavaScript   3 hrs 53 mins   ███████░░░░░░░░░░░░░░░░░░   27.58 % 
+Stylus       2 hrs 8 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+Kotlin       1 hr 34 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+JSON         1 hr 6 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
 ```
 <!--END_SECTION:waka-->
