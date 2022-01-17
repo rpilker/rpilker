@@ -7,12 +7,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 January, 2022 - 15 January, 2022
+Week: 10 January, 2022 - 16 January, 2022
 
-Svelte       10 hrs 14 mins  █████████▓░░░░░░░░░░░░░░░   39.08 % 
-TypeScript   9 hrs 55 mins   █████████▒░░░░░░░░░░░░░░░   37.84 % 
-Kotlin       3 hrs 58 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-JavaScript   52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-YAML         42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+Svelte       10 hrs 14 mins  ██████████▒░░░░░░░░░░░░░░   41.84 % 
+TypeScript   9 hrs 55 mins   ██████████░░░░░░░░░░░░░░░   40.52 % 
+Kotlin       2 hrs 45 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+JavaScript   52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+YAML         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 ```
 <!--END_SECTION:waka-->
