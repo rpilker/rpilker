@@ -7,7 +7,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 January, 2022 - 25 January, 2022
+Week: 20 January, 2022 - 26 January, 2022
 
 TypeScript   17 hrs 6 mins   ███████████████▓░░░░░░░░░   62.43 % 
 Svelte       4 hrs 7 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.06 % 
