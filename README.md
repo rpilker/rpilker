@@ -7,12 +7,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 January, 2022 - 06 February, 2022
+Week: 01 February, 2022 - 07 February, 2022
 
-TypeScript   31 hrs 45 mins  █████████████████▓░░░░░░░   71.18 % 
-JSON         6 hrs 38 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-Stylus       2 hrs 57 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
-Other        59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-JavaScript   43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+TypeScript   32 hrs 35 mins  ██████████████████░░░░░░░   72.30 % 
+JSON         6 hrs 30 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+Stylus       3 hrs 2 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+JavaScript   33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+HTML         30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 ```
 <!--END_SECTION:waka-->
