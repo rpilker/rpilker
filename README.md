@@ -7,13 +7,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 February, 2022 - 17 February, 2022
+Week: 12 February, 2022 - 18 February, 2022
 
-Total: 3 hrs 53 mins
+Total: 3 hrs 17 mins
 
-JSON         1 hr 59 mins    ████████████░░░░░░░░░░░░░   48.07 % 
-TypeScript   1 hr            ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
-JavaScript   53 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.50 % 
-Other        14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+JSON         1 hr 23 mins    ██████████░░░░░░░░░░░░░░░   40.51 % 
+TypeScript   1 hr            ███████▒░░░░░░░░░░░░░░░░░   29.20 % 
+JavaScript   53 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.82 % 
+Other        8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
 ```
 <!--END_SECTION:waka-->
