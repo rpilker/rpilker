@@ -8,7 +8,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 April 2022 - To: 17 April 2022
+From: 11 April 2022 - To: 18 April 2022
 
 Svelte       13 hrs 17 mins  ██████████████▒░░░░░░░░░░   56.87 %
 TypeScript   7 hrs 45 mins   ████████▒░░░░░░░░░░░░░░░░   33.24 %
