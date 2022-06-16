@@ -8,14 +8,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 June 2022 - To: 14 June 2022
+From: 08 June 2022 - To: 15 June 2022
 
-TypeScript       14 hrs 48 mins  ████████████████▓░░░░░░░░   66.25 %
-Svelte           7 hrs 5 mins    ████████░░░░░░░░░░░░░░░░░   31.69 %
-JSON             15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
-JavaScript       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-YAML             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+TypeScript   10 hrs 34 mins  ██████████████▓░░░░░░░░░░   59.06 %
+Svelte       7 hrs 4 mins    ██████████░░░░░░░░░░░░░░░   39.52 %
+JavaScript   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+JSON         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
