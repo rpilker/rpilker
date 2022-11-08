@@ -8,10 +8,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 October 2022 - To: 06 November 2022
-
-TypeScript   3 hrs 40 mins   ███████████████████████▒░   93.45 %
-JSON         15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
